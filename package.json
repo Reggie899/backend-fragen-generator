@@ -1,0 +1,26 @@
+{
+  "name": "backend-fragen-generator2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reggie899/backend-fragen-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reggie899/backend-fragen-generator/issues"
+  },
+  "homepage": "https://github.com/Reggie899/backend-fragen-generator#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5"
+  }
+}
