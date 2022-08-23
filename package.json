@@ -4,7 +4,6 @@
   "description": "",
   "main": "server.js",
   "type": "module",
-
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -20,7 +19,7 @@
   },
   "homepage": "https://github.com/Reggie899/backend-fragen-generator#readme",
   "dependencies": {
-    "axios": "^0.27.2",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
   }
 }
